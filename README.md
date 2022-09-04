@@ -12,6 +12,7 @@
 5. View the project in the browser by running open index.html in your terminal
 
 ### Preview of App:
+![Screen Shot 2022-09-04 at 3 39 48 PM](https://user-images.githubusercontent.com/104169837/188334649-5d08dc70-d69e-4d55-8593-cf9cb34e22c7.png)
 
 
 
@@ -19,8 +20,8 @@
 The application took our team a total of 28 hours to complete. All collaborators were 9 days into the Turing Software and Development Frontend Program when the project was started.
 
 ### Contributors:
-Lauren Frazier: frazierLE
-Courtney Lippman: Courtney-Lippman
+1. Lauren Frazier: frazierLE
+2. Courtney Lippman: Courtney-Lippman
 
 
 ### Learning Goals:

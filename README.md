@@ -1,41 +1,43 @@
-# RomCom
-
-A boilerplate repo. 
-
-## Set Up
-1. ONE teammate: fork this boilerplate repository 
-2. Clone down your new, forked repo
-3. cd into the repository
-4. Open it in your text editor
-5. View the project in the browser by running open index.html in your terminal
-6. Add all project partners and your assigned instructor as collaborators on the repository
-
-The project spec & rubric can be found [here](https://frontend.turing.io/projects/module-1/romcom-pair.html)
-
-______________________________________________________  
-# README Template  
-Before turning this project in, erase this line and everything above it and fill in the info below.  
-______________________________________________________  
-
 # RomCom  
 
 ### Abstract:
-[//]: <> (Briefly describe what you built and its features. What problem is the app solving? How does this application solve that problem?)
+ The app is creating a space for users to explore different romance cover options. It allows the user to randomly generate a cover from stored covers, titles, and descriptors, or they can create there own cover. There is also an option for the user to save the covers they generate. The user can also delete covers by double clicking the cover on the view saved covers page.
 
 ### Installation Instructions:
-[//]: <> (What steps does a person have to take to get your app cloned down and running?)
+#### Set Up
+1. fork this boilerplate repository
+2. Clone down your new, forked repo in the terminal. By typing in git clone <urlOfRepo>
+3. cd into the repository
+4. Open it in your text editor
+5. View the project in the browser by running open index.html in your terminal
 
 ### Preview of App:
-[//]: <> (Provide ONE gif or screenshot of your application - choose the "coolest" piece of functionality to show off.)
+
+
 
 ### Context:
-[//]: <> (Give some context for the project here. How long did you have to work on it? How far into the Turing program are you?)
+The application took our team a total of 28 hours to complete. All collaborators were 9 days into the Turing Software and Development Frontend Program when the project was started.
 
 ### Contributors:
-[//]: <> (Who worked on this application? Link to their GitHubs.)
+Lauren Frazier: frazierLE
+Courtney Lippman: Courtney-Lippman
+
 
 ### Learning Goals:
-[//]: <> (What were the learning goals of this project? What tech did you work with?)
-
+#### Write clean, DRY JavaScript
+1. Use a provided class by creating object instances using the new keyword
+2. Manipulate the page after it has loaded adding, removing, and updating elements on the DOM
+#### Explore the connection between HTML, CSS, and JavaScript
+1. Practice reading, understanding, and using provided code
+#### Write code collaboratively
+1. Document changes with atomic commits & thorough code reviews
+2. Communicate, troubleshoot, and plan effectively as a team
 ### Wins + Challenges:
-[//]: <> (What are 2-3 wins you have from this project? What were some challenges you faced - and how did you get over them?)
+#### Wins
+1. We learned how to work collaboratively to complete a coding project.
+2. We learned how to ask technical questions and reach out to other professionals outside of our team for further collaboration.
+3. We learned how to differentiate between productive struggle and unproductive struggle.
+#### Challenges
+1. Learned how to solve problems that went beyond the scope of our knowledge through using google and reaching out to other developers.
+2. Learned how to maximize productivity through calendaring and recognizing the time of day that we are most productive.
+3. Understanding the git and gitHub workflow of our project through trial and error and pulling up documentation on the git and gitHub workflow.

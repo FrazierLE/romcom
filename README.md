@@ -11,6 +11,8 @@
 4. Open it in your text editor
 5. View the project in the browser by running open index.html in your terminal
 
+Deployed-link: https://frazierle.github.io/romcom/
+
 ### Preview of App:
 ![Screen Shot 2022-09-04 at 3 39 48 PM](https://user-images.githubusercontent.com/104169837/188334649-5d08dc70-d69e-4d55-8593-cf9cb34e22c7.png)
 
